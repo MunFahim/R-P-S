@@ -1,4 +1,5 @@
 # Rock - Paper - Scissors
+https://munfahim.github.io/R-P-S/
 
 ### How To Play: 
 * Click Rock, Paper, or Scissors
